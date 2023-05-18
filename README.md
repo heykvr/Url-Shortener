@@ -30,4 +30,5 @@ The first command installs the required dependencies, and the second command sta
 ### Images
 
 
-![Uploading Screenshot 2023-05-17 114720.png…]()
+
+<img width="1080" alt="Screenshot 2023-05-17 114720" src="https://github.com/heykvr/Url-Shortener/assets/117711617/5285e503-de13-4058-b5a5-1800074026d8">
