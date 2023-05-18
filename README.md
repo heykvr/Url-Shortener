@@ -1,6 +1,6 @@
 # Url-Shortener
 
-This is a blog site built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with additional packages for backend and frontend development.
+This is a URL-SHORTENER built using the React Js and Firebase  with additional packages for development.
 
 ## Packages Used
 
